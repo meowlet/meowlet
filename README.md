@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meowlet&theme=material-palenight" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meowlet&theme=vue" alt="GitHub Activity Graph" />
 </p>
 
 ## 🚀 About Me
@@ -34,28 +34,28 @@ I'm a passionate developer with a strong focus on building high-performance web 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meowlet&show_icons=true&theme=material-palenight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=meowlet&show_icons=true&theme=buefy" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowlet&theme=material-palenight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowlet&theme=buefy" alt="GitHub Streak">
 </p>
 
 ## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/meowlet/elysia-himmel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowlet&repo=elysia-himmel&theme=material-palenight" alt="Himmel Server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowlet&repo=elysia-himmel&theme=buefy" alt="Himmel Server">
   </a>
   <a href="https://github.com/meowlet/tsukinari">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowlet&repo=tsukinari&theme=material-palenight" alt="Tsukinari">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowlet&repo=tsukinari&theme=buefy" alt="Tsukinari">
   </a>
 </div>
 
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowlet&layout=compact&theme=material-palenight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowlet&layout=compact&theme=buefy" alt="Top Languages">
 </p>
 
 ## 📫 Get in Touch
