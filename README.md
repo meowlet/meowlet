@@ -45,7 +45,7 @@ I'm a passionate developer with a strong focus on building high-performance web 
 
 <div align="center">
   <a href="https://github.com/meowlet/elysia-himmel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowlet&repo=elysia-himmel&theme=buefy" alt="Himmel Server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowlet&repo=elysiaa-himmel&theme=buefy" alt="Himmel Server">
   </a>
   <a href="https://github.com/meowlet/tsukinari">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowlet&repo=tsukinari&theme=buefy" alt="Tsukinari">
