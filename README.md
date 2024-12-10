@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/avatars/854426321463279647/41ebd946d8451da2a2aaa4f768dc8bbe.webp" alt="Profile Image" width="200" height="200" style="border-radius: 50%;">
-  <h1>👋 Hello! I'm Kiệt (Thứ 3, Ca 3)</h1>
+  <h1>👋 Hello! I'm Kiệt</h1>
   <p><em>Back-end Developer | Bun Enthusiast | Android Aficionado</em></p>
 </div>
 
