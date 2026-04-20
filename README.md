@@ -27,7 +27,7 @@
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/meowlet/elysia-himmel">
+  <a href="https://github.com/meowlet/meowsica-discord-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=meowlet&repo=meowsica-discord-bot&theme=buefy" alt="Google-chan">
   </a>
   <a href="https://github.com/meowlet/tsukinari">
